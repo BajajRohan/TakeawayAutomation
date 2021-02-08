@@ -37,7 +37,7 @@ pytest -v api_tests/test_list_operations.py
 
 The test logs are recorded as part of the file <test_file_name>.log
 
+**Screenshot of Takeaway tmdb list API tests run**
 
-
-
+<img width="1680" alt="Takeaway_test_run" src="https://user-images.githubusercontent.com/3776896/107154205-b0ac6b80-6997-11eb-8ee1-2dcd1153c1dc.png">
 
